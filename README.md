@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌅 New Day - Social Media Platform
 
 An Instagram-inspired social media platform built with modern web technologies, responsive 9:16 vertical Reels, real-time Direct Messages with simulated auto-replies, WebRTC device camera recording, OLED dark aesthetics, and database performance optimizations.
@@ -90,3 +91,6 @@ Or click **Sign Up** to create your own custom account!
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+=======
+# CodeAlpha_SocialMedia
+>>>>>>> 1960a53482139c34f8e004840a8d0712b2c733a8
